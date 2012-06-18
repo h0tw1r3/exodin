@@ -1,7 +1,7 @@
 // Copyright 2012 Jeffrey Clark <h0tw1r3@gmail.com>. All rights reserved.
 // License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses.gpl.html>.
 // This is free software: you are free to change and redistribute it.
-// There is NO WARRANTY, to the extend permitted by law.
+// There is NO WARRANTY, to the extent permitted by law.
 
 package main
 
