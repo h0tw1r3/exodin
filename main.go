@@ -11,7 +11,7 @@ import (
 	"os"
 	"io"
 	"fmt"
-	"exodin/tar"
+	"./tar"
 )
 
 const (

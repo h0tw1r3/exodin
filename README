@@ -1,5 +1,7 @@
 Extract or view files contained in windows Odin One Click executables.
 
+This program must be run from a command prompt or terminal.  There is NO GUI.
+
 Copyright 2012 Jeffrey Clark. All rights reserved.
 License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses.gpl.html>.
 This is free software: you are free to change and redistribute it.
